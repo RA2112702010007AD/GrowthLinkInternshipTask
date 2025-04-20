@@ -10,8 +10,6 @@ Machine Learning Project
 
 • Expected Outcome: A model that effectively identifies customers likely to leave, along with insights into the mostsignificant factors contributing to churn. 
 
-Ah, the journey begins! 🚀 Here's your **step-by-step guide** to running the **Bank Customer Churn Prediction project** in Google Colab—from setting the stage to reading the final act. Ready? Let's roll:
-
 ---
 
 ## ✅ Steps to Run the Project on Google Colab
